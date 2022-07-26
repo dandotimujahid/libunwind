@@ -6,6 +6,7 @@ env:
 linux-s390x: &linux-s390x
   os: linux
   arch: s390x
+  dist: bionic
   env: HOST=s390x-linux-gnu BUILD=s390x-linux-gnu
   script:
     - |
