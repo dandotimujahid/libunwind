@@ -6,7 +6,7 @@ env:
 linux-s390x: &linux-s390x
   os: linux
   arch: s390x
-  dist: focal
+  #dist: focal
   env: HOST=s390x-linux-gnu BUILD=s390x-linux-gnu
   script:
     - |
