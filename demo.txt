@@ -38,7 +38,6 @@ dr-xr-xr-x  8 test users    103 Aug 23 12:16 ccan
 -r--r--r--  1 test users 440847 Aug 23 12:17 compile.c
 -r--r--r--  1 test users  58800 Aug 23 12:17 complex.c
 drwxr-xr-x  3 test users     62 Aug 23 12:26 config_1st
-drwxr-xr-x  3 test users     62 Aug 23 12:26 config_2nd
 -r-xr-xr-x  1 test users 843555 Aug 23 12:23 configure
 -r--r--r--  1 test users 148380 Aug 23 12:17 configure.ac
 -r--r--r--  1 test users   1679 Aug 23 12:17 constant.h
